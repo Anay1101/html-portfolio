@@ -1,0 +1,25 @@
+.nanu{
+   color: rgb(130, 150, 250);
+   font-family: sans-serif;
+ }
+html{
+ background-color: #0F2027;
+color: rgb(191, 0, 255);
+ width: 100%;
+}
+img {
+ border: 2px solid rgb(191, 0, 255);
+ padding: 2px;
+ margin: 2px;
+ border-radius: 50%;
+ 
+}
+#welcome{
+  font-family: verdana;
+}
+#abilities{
+ color: rgb(155, 77, 100);
+}
+#unordered_list{
+color: rgb(155, 77, 100);
+}
